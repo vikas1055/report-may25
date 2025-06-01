@@ -1,7 +1,10 @@
-Employee:
+name: John Doe
+age: 30
+city: New York
+grade:
     Name: Vikas
-    Grade: B
+    Grade: F
     Name: Amit
-    Grade: B
+    Grade: F
     Name: Hari
-    Grade: B+
+    Grade: F+
